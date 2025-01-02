@@ -1,6 +1,6 @@
 # GraXpert AI models for manual installation
 
-This repository provides GraXpert's ai models for manual installation released under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1). To install, extract the released .zip files into the appropriate folder (platform dependent). Generally, the path schema is as follows:
+This repository provides [GraXpert's](https://graxpert.com) ai models for manual installation released under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1). To install, extract the released .zip files into the appropriate folder (platform dependent). Generally, the path schema is as follows:
 `<base_path>/GraXpert/GraXpert/<model_folder_name>/<model_version>/`
 where path entries enclosed in arrows `<>` denote placeholders you need to replace appropriately. `<model_version>` is always a three-tuple in the format `x.y.z`
 
